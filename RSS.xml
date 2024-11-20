@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>OnlinePC - Ofertas y Servicios</title>
+    <link>https://www.onlinepc.com</link>
+    <description>Últimas ofertas y promociones de OnlinePC, tu tienda de tecnología de confianza.</description>
+    <language>es</language>
+    <item>
+      <title>🎉 ¡Aprovecha las ofertas exclusivas de OnlinePC! 💻</title>
+      <link>https://www.onlinepc.com/ofertas</link>
+      <description><![CDATA[
+        <h2>¡Hola [Nombre del Cliente]!</h2>
+        <p>En <strong>OnlinePC</strong>, tenemos todo lo que necesitas para llevar tu experiencia tecnológica al siguiente nivel:</p>
+        <ul>
+          <li>🔧 <strong>Componentes de calidad</strong></li>
+          <li>🛠 <strong>Servicios de mantenimiento confiables</strong></li>
+          <li>💻 <strong>Reparaciones rápidas y garantizadas</strong></li>
+        </ul>
+        <h3>✨ ¡Promoción especial solo por esta semana! ✨</h3>
+        <p>🔹 <strong>15% de descuento</strong> en procesadores y tarjetas gráficas.</p>
+        <p>🔹 ¡Obtén una limpieza completa <strong>GRATIS</strong> en tu próxima visita!</p>
+        <p><a href="https://www.onlinepc.com/ofertas" style="background-color: #ffcc00; padding: 10px; color: black; text-decoration: none; border-radius: 5px;">Haz clic aquí y descubre nuestras ofertas</a></p>
+        <h4>¿Por qué elegir OnlinePC?</h4>
+        <ul>
+          <li>Más de [X] años en el mercado.</li>
+          <li>Atención personalizada.</li>
+          <li>Todo lo que necesitas en un solo lugar.</li>
+        </ul>
+        <p>📍 Visítanos en: Larreynaga Malpaisillo</p>
+        <p>🌐 Encuentra más en nuestro sitio web: <a href="https://www.onlinepc.com">www.onlinepc.com</a></p>
+      ]]></description>
+      <pubDate>Sun, 19 Nov 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.onlinepc.com/ofertas</guid>
+    </item>
+  </channel>
+</rss>
